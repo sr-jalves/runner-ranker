@@ -1,0 +1,1 @@
+- [Backend schema reload](backend-schema-reload.md) — shared schema changes require a workflow restart to validate backend behavior; client HMR alone is insufficient.
